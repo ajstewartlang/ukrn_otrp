@@ -13,3 +13,5 @@ _Hughes-Noehrer, Lukas; Stewart, Andrew; Fortunato, Laura; Henderson, Emma; Farr
 Launch using Binder with: 
 
 https://mybinder.org/v2/gh/ajstewartlang/ukrn_otrp/HEAD
+
+And then run the analysis script `ukrn_otrp_analysis_main.ipynb`.
